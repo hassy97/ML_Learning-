@@ -1,3 +1,7 @@
 # ML_Learning-
 
-- In this repo I would post the code of ML,AI an DL Algorithms
+- Learning by doing sratch like NN,FCN and many more Algorithms 
+
+- Follows the books and offical docs of tensorflow and keras 
+
+
